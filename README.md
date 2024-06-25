@@ -5,5 +5,6 @@ Gogems utils for routine works
 * Cookies
 * Math
 * Strigs convert
+* Crypto
 * Other function
 
